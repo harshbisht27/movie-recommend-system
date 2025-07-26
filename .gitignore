@@ -1,2 +1,5 @@
 setup.sh
 Procfile
+similarity.pkl
+
+movie_list.pkl
